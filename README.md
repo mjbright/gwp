@@ -1,3 +1,7 @@
-# Go Web Programming
+# Go Web Programming - mjbright
 
-This is the code repository for the Go Web Programming book
+This is my modified code repository for the Go Web Programming book
+
+My experiments with the code in my environment - as I want it.
+
+
